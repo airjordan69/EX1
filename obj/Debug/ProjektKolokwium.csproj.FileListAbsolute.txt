@@ -1,0 +1,6 @@
+C:\Users\mfxba\source\repos\ProjektKolokwium\ProjektKolokwium\bin\Debug\ProjektKolokwium.exe.config
+C:\Users\mfxba\source\repos\ProjektKolokwium\ProjektKolokwium\bin\Debug\ProjektKolokwium.exe
+C:\Users\mfxba\source\repos\ProjektKolokwium\ProjektKolokwium\bin\Debug\ProjektKolokwium.pdb
+C:\Users\mfxba\source\repos\ProjektKolokwium\ProjektKolokwium\obj\Debug\ProjektKolokwium.csprojAssemblyReference.cache
+C:\Users\mfxba\source\repos\ProjektKolokwium\ProjektKolokwium\obj\Debug\ProjektKolokwium.exe
+C:\Users\mfxba\source\repos\ProjektKolokwium\ProjektKolokwium\obj\Debug\ProjektKolokwium.pdb
